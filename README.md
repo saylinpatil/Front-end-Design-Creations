@@ -3,7 +3,7 @@ This contains some of my front-end design creations,The purpose of this project 
 
 First Creation- Login Page with Regex Validation
 
-In This contains the code for a login page designed using HTML, CSS, and JavaScript. 
+In this contains the code for a login page designed using HTML, CSS, and JavaScript. 
 The login form includes regex validation to ensure secure user authentication. 
 Use this code as a reference or integrate it into your own front-end web design projects.
 
